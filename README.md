@@ -104,5 +104,4 @@ take care of the readability part of it.
 a) Good design (an efficient, correct, and simple way to solve this problem).
 b) Correct implementation of the design.
 4) You can choose any languages you are comfortable in. (preferably Python or Golang)
-6) Please submit your solution to ​**ishaan@humit.app**​ in CC.
 Good Luck!
