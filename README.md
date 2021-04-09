@@ -1,3 +1,8 @@
+# Run Like this
+```bash
+python main.py ./input.json
+```
+
 # Coffee-machine
 
 Write the ​working code​ to create a working coffee machine. Here are the desired features-
